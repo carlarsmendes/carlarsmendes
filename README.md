@@ -16,4 +16,4 @@ I have been working @ [Waeg, an IBM Company](http://www.waeg.com) as a Frontend 
 
 ...In 2021, I participated in the Portuguese Women in Tech's Mentorship Program #2 as a Mentee. 
 
-⚡ Fun fact: I'm Portugues, but I lived in Budapest for 3 years and I can still remember some basic expressions in Hungarian. 🇭🇺Szia!
+⚡ Fun fact: I'm Portuguese, but I lived in Budapest for 3 years and I can still remember some basic expressions in Hungarian. 🇭🇺Szia!
