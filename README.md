@@ -12,7 +12,7 @@ I have been working @ [Waeg, an IBM Company](http://www.waeg.com) as a Frontend 
 
 * 📚The Pragmatic Programmer, 📚Emotional Intelligence;
 * 🍿The Appartment;
-* 👩‍🎓Learning from Frontend Masters and the amazing Kyle Simpson.
+* 👩‍🎓Learning from Frontend Masters and the amazing Kyle Simpson && Will Sentance.
 
 ...In 2021, I participated in the Portuguese Women in Tech's Mentorship Program #2 as a Mentee. 
 
