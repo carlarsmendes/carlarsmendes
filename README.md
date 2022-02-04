@@ -10,7 +10,7 @@ I have been working @ [Waeg, an IBM Company](http://www.waeg.com) as a Frontend 
 
 ### Where I've been spending my time:
 
-* 📚The Pragmatic Programmer, 📚Emotional Intelligence;
+* 📚The Pragmatic Programmer, 📚Emotional Intelligence, 📚Lord of the Rings;
 * 🍿The Appartment;
 * 👩‍🎓Learning from Frontend Masters and the amazing Kyle Simpson && Will Sentance.
 
