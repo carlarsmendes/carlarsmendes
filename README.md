@@ -1,11 +1,11 @@
 ## Hi, I'm Carla 👋
 
 
-I have been working @ [Waeg, an IBM Company](http://www.waeg.com) as a Frontend Developer since 2020. I am a Musician in my heart, a regular crossfitter🏋️‍, home cook enthusiast and a cinephile at my core.
+I have been working @ [Waeg, an IBM Company](http://www.waeg.com) as a Frontend Developer since 2020. I am also a musician, a regular crossfitter🏋️‍, home cook enthusiast and a cinephile. I have previously worked 5 years in the Financial Industry in different roles.
 
-I am also a Part-time Web Development Bootcamp Lead Teacher @ [Ironhack](http://www.https://www.ironhack.com/en).
+I have also worked as a part-time Web Development Bootcamp Lead Teacher @ [Ironhack](http://www.https://www.ironhack.com/en), and do occasional Freelance work for @[Vinculo Design Estratégico](https://www.vinculodesign.com/).
 
-📍Have worked in Lisbon, Budapest, London and fully remote for the last 3 years.
+📍Have worked in Lisbon, Budapest and London. I am currently fully remote.
 
 [My Portfolio](https://carlarsmendes.github.io/Portfolio/) is currently hosted on Github. 
 
@@ -15,6 +15,6 @@ I am also a Part-time Web Development Bootcamp Lead Teacher @ [Ironhack](http://
 * 🍿The Appartment;
 * 👩‍🎓Learning from Frontend Masters and the amazing Kyle Simpson && Will Sentance.
 
-...In 2021, I participated in the Portuguese Women in Tech's Mentorship Program #2 as a Mentee. 
+...In 2021, I participated in the Portuguese Women in Tech's Mentorship Program #2 as a Mentee. I am currently a voluntry mentor of other women in Tech. 
 
 ⚡ Fun fact: I'm Portuguese, but I lived in Budapest for 3 years and I can still remember some basic expressions in Hungarian. Szia!
