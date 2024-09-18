@@ -11,10 +11,10 @@ I have also worked as a part-time Web Development Bootcamp Lead Teacher @ [Ironh
 
 ### Where I've been spending my time:
 
-* 📚The Pragmatic Programmer, 📚Emotional Intelligence, 📚Song of Ice and Fire;
+* 📚The Pragmatic Programmer, 📚Emotional Intelligence, 📚Mistborn Series;
 * 🍿The Appartment;
-* 👩‍🎓Learning from Frontend Masters and the amazing Kyle Simpson && Will Sentance.
+* 👩‍🎓Learning from Frontend Masters and the amazing Kyle Simpson && Will Sentance and The Senior Dev.
 
-...In 2021, I participated in the Portuguese Women in Tech's Mentorship Program #2 as a Mentee. I am currently a voluntry mentor of other women in Tech. 
+I am currently a voluntary mentor of other women in Tech in the Portuguese Women in Tech's Mentorship Program. 
 
 ⚡ Fun fact: I'm Portuguese, but I lived in Budapest for 3 years and I can still remember some basic expressions in Hungarian. Szia!
